@@ -1,6 +1,6 @@
 # odin-recipes
 Odin Project - HTML Project
-Project Recipes
-Topics covered:
+<br>Project Recipes
+<br>Topics covered:
 - Basic HTML
 - Git commands
